@@ -1,3 +1,3 @@
 # cronometro
-cronometro html
-a simple project of a stopwatch in html
+cronometro html\\
+ A simple project of a stopwatch in html
