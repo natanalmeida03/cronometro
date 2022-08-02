@@ -58,3 +58,14 @@ button:active{
 	color: white;
 	background-color: 	#DAA520;
 }
+
+div{
+	font-family: 'Ubuntu', bold;
+	color: white;
+	text-align: center;
+	background-color: black;
+	width: 100%;
+	height: 45px;
+	padding-top: 18px;
+	align-content: botton;
+}
