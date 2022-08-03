@@ -2,6 +2,8 @@ var seconds=00
 var minutes=00
 var hours=00
 
+var coracao=00
+
 var interval
 
 minutes = adicionaZero(minutes)
@@ -68,4 +70,12 @@ function adicionaZero(numero){
         return "0" + numero;
     else
         return numero; 
+}
+
+function coracao1(){
+	console.log(coracao)
+	coracao++
+	if(coracao==10){
+		document.getElementById('obrigado').innerText = "OBRIGADO!!"
+	}
 }
