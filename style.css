@@ -35,7 +35,7 @@ body{
 main{
 	background-color: #F5F5F5;
 	display: inline-block;
-
+	box-shadow: -4px 5px 30px black;
 	width: 60%;
 	min-width: 450px;
 	height: 65vh;
